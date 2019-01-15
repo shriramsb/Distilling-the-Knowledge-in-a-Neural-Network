@@ -1,5 +1,5 @@
 # Distilling-the-Knowledge-in-a-Neural-Network
-This is an implementation of the paper "Distilling the Knowledge in a Neural Network" (https://arxiv.org/abs/1503.02531). 
+This is an implementation of a part of the paper "Distilling the Knowledge in a Neural Network" (https://arxiv.org/abs/1503.02531). 
 
 Teacher network has two hidden layers with 1200 units in each layer. It is trained on MNIST with data augmentation and achieves 108 test errors.
 
